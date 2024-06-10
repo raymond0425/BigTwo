@@ -2,7 +2,7 @@
 
 BigTwo is an online multi-player BigTwo poker game coded in Java.
 
-<img src="showcase.png">
+<img src="Showcase.png">
 
 This is a coursework project that scored **99 out of 100**.
 
