@@ -12,3 +12,8 @@ Technical features include:
 - Graphical User Interface Designed in Java
 - Multi-threaded event handling
 - Networking (socket) to allow multi-player
+
+Steps to play:
+1. Complile BigTwo (javac BigTwo.java) and BigTwoServer (javac BigTwoServer.java)
+2. Start BigTwoServer (java BigTwoServer)
+3. Players join with the command: java BigTwo 127.0.0.1:2396
